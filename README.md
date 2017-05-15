@@ -1,2 +1,2 @@
 # tinbat
-personal website
+personal website: [tinbat.cn](tinbat.cn)
